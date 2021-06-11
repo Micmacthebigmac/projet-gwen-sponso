@@ -1,4 +1,4 @@
-# PORTE FOLIO
+# PORTFOLIO
 
 ## Description 
 
@@ -12,6 +12,7 @@ Site Sponso
 
 - Zoning fait sur figma
 - dans la page contact il y a tel. et mail
+- Lien telechargez 
 
 ## Info suppl
 
@@ -21,8 +22,8 @@ Site Sponso
  
 
 ### Exemple de sites : type sites:
-- Lebronjames.com 
-- KylianMbappé.com
+- http://Lebronjames.com /
+- http://KylianMbappé.com/
 - http://www.rgasquet.com/
 - https://www.rogerfederer.com/
 
